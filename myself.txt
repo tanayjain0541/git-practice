@@ -1,0 +1,4 @@
+my name is tanay jain.
+i am a computer science student at indus university, Ahmedabad.
+i am currently 20 years old.
+i am new to git and git hub so dont know much, hope to learn new things, contribute to the community and build new stuffs.
